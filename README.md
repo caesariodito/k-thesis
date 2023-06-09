@@ -1,3 +1,3 @@
-# k-skripsi
+# Thesis
 
-New dataset source: <https://www.kaggle.com/datasets/phiard/aksara-jawa>
+## TBA
